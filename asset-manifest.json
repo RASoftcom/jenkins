@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37b48923.chunk.css",
+    "main.js": "/static/js/main.973c2b36.chunk.js",
+    "main.js.map": "/static/js/main.973c2b36.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5bf4183b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5bf4183b.js.map",
+    "static/js/2.e79f2618.chunk.js": "/static/js/2.e79f2618.chunk.js",
+    "static/js/2.e79f2618.chunk.js.map": "/static/js/2.e79f2618.chunk.js.map",
+    "static/js/3.f2cb676f.chunk.js": "/static/js/3.f2cb676f.chunk.js",
+    "static/js/3.f2cb676f.chunk.js.map": "/static/js/3.f2cb676f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.37b48923.chunk.css.map": "/static/css/main.37b48923.chunk.css.map",
+    "static/js/2.e79f2618.chunk.js.LICENSE.txt": "/static/js/2.e79f2618.chunk.js.LICENSE.txt",
+    "static/media/a.84750961.png": "/static/media/a.84750961.png",
+    "static/media/b.e503fbf3.png": "/static/media/b.e503fbf3.png",
+    "static/media/frog.967a742f.png": "/static/media/frog.967a742f.png",
+    "static/media/github.8beaa33f.png": "/static/media/github.8beaa33f.png",
+    "static/media/jenkins.2dd12000.mp4": "/static/media/jenkins.2dd12000.mp4",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf4183b.js",
+    "static/js/2.e79f2618.chunk.js",
+    "static/css/main.37b48923.chunk.css",
+    "static/js/main.973c2b36.chunk.js"
+  ]
+}
